@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 0.1 Test
+! Title: Test
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
